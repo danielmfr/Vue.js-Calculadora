@@ -1,24 +1,5 @@
-# calculadora
+# Calculadora - Vue.js
 
-## Project setup
-```
-npm install
-```
+Criação de uma calculadora, utilizando os frameworks Vue.js e Bootstrap.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Calculadora](https://user-images.githubusercontent.com/105618439/174510454-ab36a499-912b-4813-8cbc-4049db993dc0.gif)
